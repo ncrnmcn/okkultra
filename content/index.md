@@ -1,12 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Okkultra
 ---
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
-Yay.
-
-We are on?
-
-[[Now we beginn]]
+[[Test1]]
+[[Test2]]
