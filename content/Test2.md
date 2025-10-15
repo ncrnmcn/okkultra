@@ -5,7 +5,7 @@ tags:
   -
 ---
 Test 2
- new note_
+ new note for ```Bina```
 ## topic!
 
  ``code for a chan``
