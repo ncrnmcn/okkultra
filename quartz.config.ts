@@ -16,14 +16,14 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "okkultra.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Bebas Neue",
+        header: "Special Elite",
         body: "Atkinson Hyperlegible Next",
         code: "IBM Plex Mono",
       },
