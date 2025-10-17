@@ -1,5 +1,5 @@
 ---
-title: Fragments of the Unknown
+title: This is Okkultra
 draft: false
 dg-publish: true
 dg-home: true
@@ -12,6 +12,6 @@ When I finally took the time to write it down it was not the catharsis I expecte
 
 My [[perfectionism]] did not take this well. It revelled in painful convulsions, raging against the mediocre plot I hammered into my [[Typewriters|Olympia SM9]]. But my goal was not to please this old demon, but to explore this fragment further into the depths from where it submerged. I sensed something beaneath the surface and I finally wanted answers to the questions I had. 
 
-This place is quite similar to the endeavor I just described. I came here to explore these fragments of the unknown—even it means to have this old demon breathing down my neck. I want to see what is beneath the surface. This is my goal.
+This place is quite similar to the endeavor I just described. I still have ideas chasing me. I came here to explore these ideas—these [[fragments of the unknown]]—even it means to have old [[demons]] breathing down my neck. I want to see what lies beneath the surface.
 
-This is Okkultra.
+**This is Okkultra.**
