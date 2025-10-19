@@ -1,7 +1,0 @@
----
-title: New Note
-draft: true
-dg-publish: false
-tags:
-  -
----
