@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          <a href="mailto:someone@example.com">okkultra.com</a> © {year}
+          <a href="okkultr@proton.me">okkultra.com</a> © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
