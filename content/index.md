@@ -22,4 +22,4 @@ This place is quite similar to the endeavor I just described. I still have ideas
 I want to see what lies beneath the surface of my imagination. 
 
 This is Okkultra.
-UPDATE
+UPDATE!
